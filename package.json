@@ -1,7 +1,7 @@
 {
   "name": "ecommerce",
   "version": "1.0.0",
-  "description": "eShop: A MERN stack eCommerce Project made with love by Shubham Dutta",
+  "description": "eShop: A MERN stack eCommerce Project made with love by P Venkatesh",
   "main": "server.js",
   "type": "module",
   "engines": {
@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shubhamdutta2000/ECommerceApp.git"
+    "url": "git+https://github.com/venkatesh9691/eShop-ecommerce-site.git"
   },
   "keywords": [
     "eShop"
   ],
-  "author": "Shubham Dutta",
+  "author": "P venkatesh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Shubhamdutta2000/ECommerceApp/issues"
